@@ -1,0 +1,13 @@
+{
+  "name": "hello-gcp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiny test app for Continuum Deploy on Google Cloud: confirms the deployment and shows where it runs",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
